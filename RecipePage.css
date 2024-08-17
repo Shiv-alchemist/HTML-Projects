@@ -1,0 +1,28 @@
+img{
+    width: 650px;
+    border-radius: 30px;
+}
+#purple{
+    color: purple;
+}
+li::marker{
+    color:brown;
+}
+h3{
+    color: brown;
+}
+body{
+    justify-content: center;
+    display: flex;
+    background-color: antiquewhite;
+}
+fieldset{
+    width: fit-content; 
+    background-color: white; 
+    border: white;
+    border-radius: 40px;
+    font-family: "Young Serif";
+}
+#brown{
+    color: brown;
+}
